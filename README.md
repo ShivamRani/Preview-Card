@@ -19,5 +19,5 @@ Frontend Mentor Challenge
 ![Screenshot 2021-06-21 at 16-37-39 Frontend Mentor Stats preview card component](https://user-images.githubusercontent.com/83000202/122753089-5b6e5800-d2af-11eb-9f1e-6de6f74576c9.png)
 
 ## Links :
-#### Live site URL : 
-#### Solution URL : 
+#### Live site URL : https://preview-card-fawn.vercel.app/
+#### Solution URL : https://github.com/ShivamRani/Preview-Card
